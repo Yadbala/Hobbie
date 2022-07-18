@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    background-color:lightgreen;
+  }
+  img{
+    border:10pxsolid black;
+    border-radius:5px;
+    width:450px;
+    height:300px;
+  }
+  .links{
+    padding-left: 33px;
+    padding-right: 25px;
+    display: inline;
+    font-family: fantasy;
+    font-size: 20px;
+  }
